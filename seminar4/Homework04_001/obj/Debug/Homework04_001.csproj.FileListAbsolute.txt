@@ -1,0 +1,7 @@
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\bin\Debug\Homework04_001.exe.config
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\bin\Debug\Homework04_001.exe
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\bin\Debug\Homework04_001.pdb
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\obj\Debug\Homework04_001.csproj.AssemblyReference.cache
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\obj\Debug\Homework04_001.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\obj\Debug\Homework04_001.exe
+C:\Users\alina\Desktop\Homework geekbrains\seminar4\Homework04_001\obj\Debug\Homework04_001.pdb
